@@ -1,0 +1,41 @@
+h1 {
+    color: #17235e;
+    font-family: "sofia", sans-serif;
+}
+
+h2 {
+    color: #17235e;
+    font-family: "sofia", sans-serif;
+}
+
+p{
+    font-family: 'Playfair Display', serif;
+}
+
+.indexheader{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.column{
+    flex-direction: row;
+    justify-content: center;
+    border:3px solid black;
+    border-radius: 20px;
+    border-color:#17235e;
+    width:33%;
+    text-align: center;
+
+
+}
+
+img{
+    border-radius: 5px;
+}

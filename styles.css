@@ -54,5 +54,6 @@ img{
     flex-direction: row;
     justify-content: center;
     border-radius: 20px;
-    width:33%;    
+    width:33%;
+    padding: 20px;   
 }
